@@ -1,4 +1,4 @@
-## git
+## igh-ethercat
 
 **Maintainer:** [@fjes](https://github.com/fjes)
 
