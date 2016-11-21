@@ -11,6 +11,14 @@ zstyle -s ":vcs_info:git:*:-all-" "command" _omz_git_git_cmd
 # (sorted alphabetically)
 #
 
+alias ec='ethercat'
+alias ecm='ethercat master'
+alias ecs='ethercat slaves'
+alias ecsv='ethercat slaves -v'
+alias ecre='ethercat rescan'
+alias ecrr='ethercat reg_read'
+alias ecrw='ethercat reg_write'
+
 #
 # Rule for subcommand extension
 #
