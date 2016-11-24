@@ -15,9 +15,15 @@ alias ec='ethercat'
 alias ecm='ethercat master'
 alias ecs='ethercat slaves'
 alias ecsv='ethercat slaves -v'
+alias ecst='ethercat state'
 alias ecre='ethercat rescan'
+alias ecup='ethercat upload'
+alias ecdown='ethercat download'
+alias ecsr='ethercat sii_read'
+alias ecsw='ethercat sii_write'
 alias ecrr='ethercat reg_read'
 alias ecrw='ethercat reg_write'
+alias ecsdos='ethercat sdos'
 
 #
 # Rule for subcommand extension
